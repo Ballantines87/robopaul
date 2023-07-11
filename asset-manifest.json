@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/robopaul.git/static/css/main.13bd9bbd.css",
+    "main.js": "/robopaul.git/static/js/main.b573b991.js",
+    "static/js/787.32032a02.chunk.js": "/robopaul.git/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/robopaul.git/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/robopaul.git/index.html",
+    "main.13bd9bbd.css.map": "/robopaul.git/static/css/main.13bd9bbd.css.map",
+    "main.b573b991.js.map": "/robopaul.git/static/js/main.b573b991.js.map",
+    "787.32032a02.chunk.js.map": "/robopaul.git/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13bd9bbd.css",
+    "static/js/main.b573b991.js"
+  ]
+}
